@@ -6,9 +6,7 @@ I'm a software developer based in Ottawa, Canada, with a passion for building ef
 - **Languages**: Python, Java, SQL, Go, PHP  
 - **Cloud & DevOps**: Docker, Kubernetes, Azure, DigitalOcean, GitHub Actions  
 - **Web Technologies**: React, HTML, CSS, JavaScript  
-- **Backend Frameworks**: Flask, FastAPI  
-- **Authentication & Monitoring**: Auth0, BetterStack  
-- **Mobile Development**: Android Studio  
+- **Backend Frameworks**: Flask, FastAPI 
 
 ### 🌱 Currently Learning  
 - Cloud architecture and high availability system design
